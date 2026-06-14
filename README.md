@@ -1,112 +1,115 @@
-# 👨‍💻 Eduardo Sato
+<div align="center">
 
-**Desenvolvedor Full Stack | Java | Spring Boot | Python | Node.js | React | Flutter | JavaScript | HTML | MySQL | Docker | API REST**
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Eduardo%20Sato&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Automação%20%7C%20TI&descAlignY=58&descSize=18&animation=fadeIn)
 
-Sou desenvolvedor com foco em **criar soluções eficientes e bem estruturadas**, unindo lógica de programação e boas práticas de desenvolvimento.  
-Tenho experiência em **JavaScript, Node.js, React, Spring Boot, Python, Flutter, MySQL e Docker**, além de interesse em **APIs REST e arquitetura full stack**.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas (Unilavras)**, aplicando conhecimentos em projetos práticos que envolvem desde o **back-end até o front-end**.  
-Busco evoluir constantemente na área de **desenvolvimento de software**, contribuindo para equipes que valorizem **aprendizado contínuo, colaboração e inovação tecnológica**.
-
----
-
-### 🌐 Portfólio e Contato
-
-<p align="left">
-    <a href="https://portfolio-sato-steel.vercel.app" target="_blank">
-        <img alt="Portfólio" title="Portfólio Profissional" src="https://img.shields.io/badge/-Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/edsato/" target="_blank">
-        <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:eduardosato22@gmail.com">
-        <img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-</p>
-
----
-
-### 🚀 Tecnologias e Ferramentas
-
-<div align="left">
-    <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img alt="Spring Boot" title="Spring Boot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-    <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img alt="Flutter" title="Flutter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-    <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-    <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Automação+com+n8n+%2B+Chatwoot+%2B+Evolution+API;2+projetos+de+clientes+reais+em+produção;Disponível+para+dev%2C+automação+e+TI)](https://git.io/typing-svg)
 
 <br/>
 
-**Principais competências:**
-- 💻 Desenvolvimento **Full Stack** (Java, Node.js, React, Flutter)  
-- ⚙️ Criação e consumo de **APIs RESTful**  
-- 🧠 Aplicações com **Spring Boot**, **Python Flask/FastAPI**  
-- 🗄️ Modelagem e manipulação de **bancos de dados MySQL**  
-- 🐳 Contêineres e deploy com **Docker**  
-- 🔄 Integração de sistemas e automação de processos  
-- 🧩 Boas práticas de **arquitetura de software, versionamento (Git)** e **clean code**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sato-steel.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsato/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardosato22@gmail.com)
+
+</div>
 
 ---
 
-### 💡 Projetos em Destaque
+## 🧑‍💻 Sobre mim
 
-| Projeto | Descrição | Tecnologias |
-|----------|------------|-------------|
-| [**API de Tarefas**](#) | API REST para gerenciamento de tarefas com autenticação e CRUD completo. | Java, Spring Boot, MySQL, Docker |
-| [**Plataforma Full Stack**](#) | Aplicação completa com backend em Node.js e frontend em React. | Node.js, React, MySQL |
-| [**App Mobile de Controle Financeiro**](#) | Aplicativo desenvolvido em Flutter para controle de despesas pessoais. | Flutter, Dart, Firebase |
-| [**Dashboard de Monitoramento**](#) | Painel interativo para acompanhamento de métricas e processos internos. | Python, Flask, Chart.js |
-
-> 🔗 Veja mais projetos no [meu portfólio](https://portfolio-sato-steel.vercel.app)
-
----
-
-### 🏅 Licenças e Certificados
-
-| Curso | Instituição | Emissão |
-|--------|--------------|----------|
-| **Análise de Negócios no Desenvolvimento de Soluções Baseadas em Dados** | Enap | set/2025 |
-| **AI-900: Fundamentos de IA no Azure** | Fundação Bradesco | jul/2025 |
-| **Conhecendo a Legislação de Proteção de Dados Pessoais (LGPD)** | Enap | jul/2025 |
-| **Segurança em Tecnologia da Informação** | Fundação Bradesco | jul/2025 |
-| **Introdução ao Pentest na Prática** | Desec Security | out/2024 |
-| **Lógica de Programação com JavaScript** | Alura | out/2024 |
-| **Projeto de Sistemas Web** | Governo do Brasil | nov/2024 |
-| **Python Fundamental 1** | Governo do Brasil | nov/2024 |
-| **Windows Server** | Alura | set/2024 |
-| **Hardware e Robótica** | Microcamp | mai/2021 |
+- 🏠 Lavras, MG — Brasil
+- 💼 Analista de Suporte Técnico JR · **Laticínios Verde Campo**
+- 🎓 ADS concluído (Unilavras 2025) · MBA Engenharia de Software em andamento (Descomplica 2026–2027)
+- 🚀 **2 projetos de clientes reais em produção** — e-commerce com Mercado Pago + site institucional com GSAP
+- 🤖 Automatizo processos com **n8n · Chatwoot · Evolution API · Docker** no dia a dia
+- 💻 Desenvolvo sistemas full stack: **Java/Spring Boot** no backend, **React/Next.js** no frontend
+- 🟢 **Disponível** para vagas de desenvolvimento, automação e TI
 
 ---
 
-### 🎯 Objetivo Profissional
+## 🚀 Projetos em Destaque
 
-Atuar como **Desenvolvedor Full Stack** ou **Engenheiro de Software**, aplicando boas práticas de desenvolvimento e contribuindo com a criação de **soluções modernas, escaláveis e inovadoras** que gerem impacto positivo para os usuários e para o negócio.
+| Projeto | Descrição | Stack | Status |
+|---------|-----------|-------|--------|
+| 🛒 **[Delicatto E-commerce](https://www.doceriadelicatto.com.br/)** | E-commerce completo para doceria artesanal com PIX/cartão via Mercado Pago, painel admin com kanban em tempo real via Socket.IO | `React` `Node.js` `Prisma` `PostgreSQL` `Socket.IO` `Mercado Pago` | ✅ Produção |
+| 🪟 **[LR Móveis Planejados](https://lr-moveis-planejados.vercel.app/)** | Site institucional com scroll scrubbing via canvas frame-sequence (zero jank), animações GSAP + Lenis e testes E2E com Playwright | `Next.js 15` `TypeScript` `GSAP` `Playwright` | ✅ Produção |
+| ⚙️ **[RetailFlow CRM](https://retailflow-front.vercel.app/)** | CRM full stack demonstrando arquitetura enterprise: JWT + Spring Security, Swagger docs, Docker Compose | `Java 17` `Spring Boot` `React` `TypeScript` `Docker` | 🌐 Público |
+
+> 🔗 Detalhes técnicos e screenshots em [portfolio-sato-steel.vercel.app](https://portfolio-sato-steel.vercel.app)
 
 ---
 
-⭐ *“Desenvolver é transformar lógica em impacto real, conectando tecnologia e propósito.”*
+## 🛠️ Tecnologias
 
+<div align="left">
+
+**Back-end**
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Front-end & Mobile**
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Automação & Infra**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🏅 Certificações Recentes
 
-<p align="center">
-  <img
-    alt="Estatísticas do GitHub"
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=EduardoSato22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img
-      alt="Linguagens Mais Usadas"
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSato22&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8"
-  />
-</p>
+| Certificação | Instituição | Ano |
+|---|---|---|
+| Java Development | FIAP | 2026 |
+| Node.js: Desenvolvimento de APIs Modernas | IFRS | 2026 |
+| Programação Básica com Java I, II, III | IFRS | 2026 |
+| AI-900: Fundamentos de IA no Azure | Fundação Bradesco / Microsoft | 2025 |
+| Segurança em Tecnologia da Informação | Fundação Bradesco | 2025 |
+| LGPD — Privacidade e Segurança da Informação | Enap | 2025 |
+| Análise de Negócios em Soluções de Dados | Enap | 2025 |
+| Introdução ao Pentest na Prática | Solyd | 2024 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  alt="GitHub Stats"
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=EduardoSato22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
+/>
+<img
+  alt="Top Languages"
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSato22&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8&hide_border=true"
+/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=EduardoSato22&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer)
+
+</div>
